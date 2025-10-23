@@ -23,7 +23,7 @@ st.markdown("<div class='sticky-header'><h1 style='margin:0;'>🔍 StockView360 
 
 
 # 👤
-#st.image("img1.png", caption="",width=150)
+st.image("img1.png", caption="",width=150)
 
 # Layout with image and text
 col1, col2, col3 = st.columns([2, 2, 2])
@@ -38,10 +38,10 @@ with col1:
     💼 Profession: Sr.Quant Researcher (10+ Years Experiance)  
     🎓 Education: M.Tech Engg.               
     🔗 LinkedIn:https://www.linkedin.com/in/tushar-shingade               
-    # 🔗 GitHub: https://github.com/shingadetm                           
     ✉️ Email: tusharshingade024@gmail.com  
                 
     """)
+    # 🔗 GitHub: https://github.com/shingadetm
 
 with col2:
     st.markdown("### 📊 Core Competencies")
