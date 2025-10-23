@@ -23,7 +23,7 @@ st.markdown("<div class='sticky-header'><h1 style='margin:0;'>🔍 StockView360 
 
 
 # 👤
-st.image("img1.png", caption="",width=150)
+st.image("👤", caption="",width=150)
 
 # Layout with image and text
 col1, col2, col3 = st.columns([2, 2, 2])
