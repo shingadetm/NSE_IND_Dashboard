@@ -38,7 +38,7 @@ with col1:
     💼 Profession: Sr.Quant Researcher (10+ Years Experiance)  
     🎓 Education: M.Tech Engg.               
     🔗 LinkedIn:https://www.linkedin.com/in/tushar-shingade               
-    🔗 GitHub: https://github.com/shingadetm                           
+    # 🔗 GitHub: https://github.com/shingadetm                           
     ✉️ Email: tusharshingade024@gmail.com  
                 
     """)
