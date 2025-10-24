@@ -55,8 +55,8 @@ def highlight_return(val):
 # try:
 symbol_eq = capital_market.fno_equity_list()
 symbol_idx = capital_market.fno_index_list()
-holiday = trading_holiday_calendar()
-holiday['tradingDate'] = pd.to_datetime(holiday['tradingDate'], format="%d-%b-%Y").dt.date
+# holiday = trading_holiday_calendar()
+# holiday['tradingDate'] = pd.to_datetime(holiday['tradingDate'], format="%d-%b-%Y").dt.date
 
 #TODO Implement Holiday check
 # st.write(holiday)
